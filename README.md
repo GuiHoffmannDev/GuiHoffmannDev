@@ -6,7 +6,7 @@
 
 - 📫 Contate-me: **guidevhoffmann@outlook.com**
 
-- ⚡ Sobre mim: Sou apaixonado com automobilismo especialmente Formula 1 **Sou apaixonado por automobilismo especialmente Formula 1**
+- ⚡ Sobre mim: Sou apaixonado por automobilismo especialmente Formula 1
 
 
 <h3 align="left">Languages and Tools:</h3>
