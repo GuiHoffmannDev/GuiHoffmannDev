@@ -7,7 +7,7 @@
 - 🔭 Currently working with **iOS**
 - 🌱 Studying **Swift**
 - 🏎️ Passionate about automobiles, especially **Formula 1**
-- 📫 Contact me: **guidevhoffmann@outlook.com**
+- 📫 Contact me: **guihoffmann7@gmail.com**
 
 ---
 
