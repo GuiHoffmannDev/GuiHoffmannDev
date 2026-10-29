@@ -1,34 +1,17 @@
-<h3 align="center">A passionate iOS developer from Brazil 🇧🇷</h3>
+# Guilherme Hoffmann
 
----
+Software engineer based in Curitiba, Brazil. I build production systems with **TypeScript, Node.js, PostgreSQL and AWS**, and I'm a co-founder of **Lex**, an AI-powered legal practice management SaaS for Brazilian lawyers. I'm also building **Tink**, a collaborative AI workspace for marketing teams.
 
-### 👨‍💻 About me
+## What I'm working on
 
-- 🔭 Currently working with **iOS**
-- 🌱 Studying **Swift**
-- 🏎️ Passionate about automobiles, especially **Formula 1**
-- 📫 Contact me: **guihoffmann7@gmail.com**
+- **Tink** (in development): a shared workspace where marketing teams, designers included, talk to the same AI agent in a single conversation, instead of each person prompting alone
+- **Lex**: AI-assisted workflows for lawyers (React, TypeScript, PostgreSQL)
+- Freelance full-stack products for clients (clinic management, ERP) with Next.js, Rust and Supabase
 
----
+## Stack
 
-### 🛠️ Languages and Tools
+TypeScript · Node.js · React · Next.js · Rust · PostgreSQL · Supabase · AWS (S3, Lambda) · GitHub Actions · Swift
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=swift,html,css,js,react,figma,git" />
-</p>
+## Contact
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihoffmanndev&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guihoffmanndev&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=guihoffmanndev&theme=dark" />
-</p>
+guihoffmann7@gmail.com · Fluent in English and Portuguese · Open to remote roles
