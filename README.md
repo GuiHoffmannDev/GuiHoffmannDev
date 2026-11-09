@@ -1,5 +1,7 @@
 # Guilherme Hoffmann
 
+![Databricks Fundamentals Accreditation](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/199794162)
+
 AI engineer based in Curitiba, Brazil. I build agentic RAG and evaluation systems in **Python**, backed by 4+ years of production software engineering in **TypeScript, Node.js, PostgreSQL and AWS**. Co-founder of **Lex**, a legal practice management SaaS for Brazilian lawyers with an AI assistant and a RAG module over legal documents. Databricks Fundamentals accredited.
 
 ## Featured projects
